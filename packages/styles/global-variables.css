@@ -97,8 +97,8 @@
   --nt-font-weight-normal: 400;
   --nt-font-weight-bold: 600;
   --nt-font-weight-bolder: 700;
-  --nt-font-family-normal: "Source Sans Pro", sans-serif;
-  --nt-font-family-mono: "Source Code Pro", courier;
+  --nt-font-family-normal: "Courier", "STKaiti", "Source Sans Pro", sans-serif;
+  --nt-font-family-mono: "Courier", "STKaiti", "Source Code Pro", courier;
   --nt-opacity-disabled: 0.4;
   --nt-opacity-faded: 0.3;
   --nt-spacing-none: 0;

@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family: "Source Sans Pro";
-  font-size: 16px;
+  font-family: "Courier", "STKaiti", "Source Sans Pro";
+  font-size: 14px;
   background-color: var(--theme-app-bg);
   color: var(--theme-app-fg);
   margin: 0;
